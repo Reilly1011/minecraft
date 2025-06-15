@@ -375,3 +375,49 @@ could not find expected ':'
 [17:21:23] [Server thread/INFO]: Timings Reset
 [17:21:23] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
 [17:22:11] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Bedrock user with ip: /127.0.0.1 has disconnected for reason Bedrock client timed out
+[17:30:38] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Ethan117664
+[17:30:38] [localSession-7-2/INFO]: [Geyser-Spigot] Ethan117664 (logged in as: Ethan117664) has connected to the Java server
+[17:30:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ethan117664 joined (UUID: 00000000-0000-0000-0009-01fc65f6d0cf)
+[17:30:43] [Server thread/INFO]: .Ethan117664 joined the game
+[17:30:44] [Server thread/INFO]: .Ethan117664[/127.0.0.1:0] logged in with entity id 89 at ([world]37.595425, 81.0, 33.54302)
+[17:30:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[17:30:45] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 73.304097ms. Summary: Getting group for .Ethan117664
+[17:31:17] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Ethan117664 has disconnected from the Java server because of Bedrock client timed out
+[17:31:17] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Ethan117664 disconnected
+[17:31:17] [Server thread/INFO]: .Ethan117664 lost connection: Disconnected
+[17:31:17] [Server thread/INFO]: .Ethan117664 left the game
+[17:34:09] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Ethan117664
+[17:34:09] [localSession-7-3/INFO]: [Geyser-Spigot] Ethan117664 (logged in as: Ethan117664) has connected to the Java server
+[17:34:10] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Ethan117664 joined (UUID: 00000000-0000-0000-0009-01fc65f6d0cf)
+[17:34:10] [Server thread/INFO]: .Ethan117664 joined the game
+[17:34:10] [Server thread/INFO]: .Ethan117664[/127.0.0.1:0] logged in with entity id 383 at ([world]44.988846, 77.0, 7.315215)
+[17:34:43] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Ethan117664 disconnected
+[17:34:43] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Ethan117664 has disconnected from the Java server because of Bedrock client timed out
+[17:34:43] [Server thread/INFO]: .Ethan117664 lost connection: Disconnected
+[17:34:43] [Server thread/INFO]: .Ethan117664 left the game
+[17:41:55] [Server thread/INFO]: -------------(Your Clearlag Commands)-------------
+[17:41:55] [Server thread/INFO]:  - /lagg clear  -  (Clears entities from your worlds)
+[17:41:55] [Server thread/INFO]:  - /lagg area  -  (Clears entities from your radius)
+[17:41:55] [Server thread/INFO]:  - /lagg check  -  (Counts entities in your world(s))
+[17:41:55] [Server thread/INFO]:  - /lagg chunk  -  (Finds laggy chunks)
+[17:41:55] [Server thread/INFO]:  - /lagg gc  -  (Request garbage collecter)
+[17:41:55] [Server thread/INFO]:  - /lagg tps  -  (Displays server's average tick rate)
+[17:41:55] [Server thread/INFO]:  - /lagg killmobs  -  (Clears mobs from your worlds)
+[17:41:55] [Server thread/INFO]:  - /lagg reload  -  (Reloads clearlag)
+[17:41:55] [Server thread/INFO]:  - /lagg tpchunk  -  (Teleport to chunks)
+[17:41:55] [Server thread/INFO]:  - /lagg unloadchunks  -  (Unloads unused chunks)
+[17:41:55] [Server thread/INFO]:  - /lagg halt  -  (Halts most server activity)
+[17:41:55] [Server thread/INFO]:  - /lagg admin  -  (Control Clearlag's modules)
+[17:41:55] [Server thread/INFO]:  - /lagg profile  -  (Profile lag inducing events)
+[17:41:55] [Server thread/INFO]:  - /lagg checkchunk  -  (Displays chunk's entities)
+[17:41:55] [Server thread/INFO]:  - /lagg samplememory  -  (Sample memory/GC usage)
+[17:41:55] [Server thread/INFO]:  - /lagg sampleticks  -  (Sample your server's ticks)
+[17:41:55] [Server thread/INFO]:  - /lagg memory  -  (View Heap info)
+[17:41:55] [Server thread/INFO]:  - /lagg performance  -  (View Server Performance)
+[17:41:55] [Server thread/INFO]: ----------------------------------------------------
+[17:42:19] [Server thread/INFO]: =-------------[-] Module Commands [-]---------------=
+[17:42:19] [Server thread/INFO]:   - /lagg admin reload <module>
+[17:42:19] [Server thread/INFO]:   - /lagg admin stop <module>
+[17:42:19] [Server thread/INFO]:   - /lagg admin start <module>
+[17:42:19] [Server thread/INFO]:   - /lagg admin list
+[17:42:19] [Server thread/INFO]: -----------------------------------------------------

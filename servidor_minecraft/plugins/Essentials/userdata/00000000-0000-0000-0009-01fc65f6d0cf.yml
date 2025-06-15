@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749969495334
-  login: 1749969468530
+  logout: 1750008883598
+  login: 1750008850664
 money: '0'
 last-account-name: .Ethan117664
 logoutlocation:
   world: 124347a4-6afa-4d48-8492-56ee79cd4cb4
   world-name: world
-  x: 37.595425
-  y: 81.0
-  z: 33.54302
-  yaw: 113.64166259765625
-  pitch: 12.85107421875
+  x: 41.220993
+  y: 79.0
+  z: 24.211239
+  yaw: 24.6373291015625
+  pitch: 26.36566162109375
 lastlocation:
   world: 124347a4-6afa-4d48-8492-56ee79cd4cb4
   world-name: world
