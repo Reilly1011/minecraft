@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.7.151.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1749926501572
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749969791434
+  login: 1749969589725
+money: '0'
+last-account-name: Micnow
+logoutlocation:
+  world: 124347a4-6afa-4d48-8492-56ee79cd4cb4
+  world-name: world
+  x: -15.354458042407185
+  y: 71.0
+  z: -37.03834509874945
+  yaw: 98.40011596679688
+  pitch: 22.800073623657227
+lastlocation:
+  world: 124347a4-6afa-4d48-8492-56ee79cd4cb4
+  world-name: world
+  x: 49.86822240695675
+  y: 77.0
+  z: 27.69999998807907
+  yaw: -86.69991302490234
+  pitch: 17.69999885559082
